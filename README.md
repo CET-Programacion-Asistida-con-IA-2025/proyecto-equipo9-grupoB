@@ -6,7 +6,7 @@ Este proyecto fue desarrollado en el marco del curso de programación frontend d
 
 ## 🎯 Temática del Proyecto
 
-El sitio web busca **visibilizar problemáticas de género**, promoviendo la equidad, la información accesible y el desarrollo de herramientas digitales con enfoque inclusivo.  
+El sitio web busca **visibilizar problemáticas de género, especialmente la DIVERSIDAD E IDENTIDAD**, promoviendo la equidad, la información accesible y el desarrollo de herramientas digitales con enfoque inclusivo.  
 A través del diseño y la programación, buscamos aportar una mirada crítica y educativa sobre las desigualdades de género existentes en distintos ámbitos.
 
 
